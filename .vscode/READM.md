@@ -4,7 +4,6 @@ A simple web tool that calculates subnet details from an IP address and a prefix
 
 **Live demo:** [https://github.com/22019088]
 
-![Screenshot of the Subnet Calculator](screenshot.png)
 
 ## What it does
 
